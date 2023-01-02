@@ -1,0 +1,4 @@
+- Hi, I’m Paul Landers, @p3l6
+- I’m interested in MacOS and iOS development. 
+- Check out my blog and website at p3l6.dev
+- Or, check out my dotfiles repository: github.com/p3l6/env
